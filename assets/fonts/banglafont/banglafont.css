@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'aikyabold';
+    src: url('aikyabold.otf') format("opentype");
+}
+
+@font-face {
+    font-family: 'aikyalight';
+    src: url('aikyalight.otf') format("opentype");
+}
+
+@font-face {
+    font-family: 'harappa';
+    src: url('harappa.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'FranklinHeavy';
+    src: url('FranklinHeavy.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'FranklinDemy';
+    src: url('FranklinDemy.ttf') format("truetype");
+}
